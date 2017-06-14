@@ -16,4 +16,4 @@ $numberOfTries = pow($alphabetLength, $passwordLength)-1;
 		{
 			echo "Password not found";
 		}
-	?>
+?>
